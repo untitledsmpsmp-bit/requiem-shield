@@ -4,3 +4,14 @@ main: com.requiem.shield.RequiemShield
 description: A legendary artifact plugin inspired by Gold Experience Requiem
 authors: [untitledsmpsmp-bit]
 api-version: "1.21"
+
+commands:
+  rtzcommandtoggle:
+    description: Toggle command mode on/off
+    usage: /rtzcommandtoggle
+  rtz1:
+    description: Activate Soul Split ability
+    usage: /rtz1
+  rtz2:
+    description: Activate Return to Zero ability
+    usage: /rtz2
