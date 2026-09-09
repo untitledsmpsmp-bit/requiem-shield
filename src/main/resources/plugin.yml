@@ -1,0 +1,6 @@
+name: Requiem Shield
+version: 1.0.0
+main: com.requiem.shield.RequiemShield
+description: A legendary artifact plugin inspired by Gold Experience Requiem
+authors: [untitledsmpsmp-bit]
+api-version: "1.21"
